@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 ---
 
-### Do I need to provde identification?
+### Do I need to provide identification?
 Yes, you will need to present identification in order to proceed with any notarial services. Acceptable forms of identification include:
 - California identification card or driver's license. Must be current or issued within the last 5 years.
 - United States passport
