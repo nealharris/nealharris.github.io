@@ -3,8 +3,7 @@ layout: home
 title: Mill Valley Mobile Notary
 subtitle: Serving Marin and San Francisco
 ---
-![ocean](assets/img/ocean.jpeg)
-(Okay, this photo is not actually of Mill Valley. This is the Golden Gate National Recreation Area.)
+![tam](assets/img/tam.jpeg)
 
 If you need notarial services in Marin or San Francisco, please contact us to arrange an appointment. We can meet you at a location of your choosing! Our notaries public are all vaccinated and boosted against COVID-19, and will wear a mask during the appointment.
 
