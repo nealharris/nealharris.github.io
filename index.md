@@ -5,7 +5,7 @@ subtitle: Serving Marin and San Francisco
 ---
 ![tam](assets/img/tam.jpeg)
 
-If you need notarial services in Marin or San Francisco, please contact us to arrange an appointment. We can meet you at a location of your choosing! Our notaries public are all vaccinated and boosted against COVID-19, and will wear a mask during the appointment.
+If you need notarial services in Marin or San Francisco, please contact us to arrange an appointment. We can meet you at a location of your choosing!
 
 ## Fees
 ### Notarial Services
