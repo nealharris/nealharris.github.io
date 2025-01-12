@@ -46,8 +46,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hello@mvnotary.net"
-  telephone: +16199406284
+  #email: "hello@mvnotary.net"
+  #telephone: +16199406284
 
 
 # If you want your website to generate an RSS feed, provide a description
